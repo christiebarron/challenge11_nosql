@@ -1,4 +1,4 @@
-# Challenge 12: sqlAlchemy and flask
+# Challenge 12: NoSQL with MongoDB
 
-This repository is my submission to the UofT data anlaytics bootcamp challenge 11.
+This repository is my submission to the UofT data anlaytics bootcamp challenge 12.
 
